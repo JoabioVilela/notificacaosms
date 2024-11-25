@@ -90,28 +90,28 @@ bash
 Execute o microsserviço. Ele estará ouvindo a fila RabbitMQ.
 
 
-Recursos Adicionais
+## Recursos Adicionais
 
-Mensageria
+### Mensageria
 
-Este microsserviço consome mensagens da fila RabbitMQ para enviar notificações SMS.
+- Este microsserviço consome mensagens da fila RabbitMQ para enviar notificações SMS.
 
-Utiliza a Dead Letter Queue para mensagens que não puderam ser processadas.
+- Utiliza a Dead Letter Queue para mensagens que não puderam ser processadas.
 
-Garantia de alta disponibilidade com dois níveis de resiliência.
+- Garantia de alta disponibilidade com dois níveis de resiliência.
 
-Integração com Microsserviço CRM
+### Integração com Microsserviço CRM
 
-O microsserviço CRM é responsável por gerar as mensagens que serão consumidas por este microsserviço.
+ - O microsserviço CRM é responsável por gerar as mensagens que serão consumidas por este microsserviço.
 
-As mensagens contêm os dados do cliente e os detalhes da notificação que precisa ser enviada.
+- As mensagens contêm os dados do cliente e os detalhes da notificação que precisa ser enviada.
 
-Implementações Futuras
+## Implementações Futuras
 
-Testes unitários com JUnit
-Implementação de Frontend utilizando Angular
+- Testes unitários com JUnit
+- Implementação de Frontend utilizando Angular
 
-Contato
+## Contato
 
 Se precisar de suporte ou tiver dúvidas, entre em contato ou abra uma Issue neste repositório.
 
