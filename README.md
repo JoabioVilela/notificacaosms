@@ -67,6 +67,8 @@ bash
 
 isto é:
 
+bash
+
 `git clone https://github.com/JoabioVilela/notificacaosms`
 
 `cd notificacaosms`
