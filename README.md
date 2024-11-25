@@ -3,15 +3,15 @@
 
 ## Índice
 
-- Descrição
-- Tecnologias e Metodologias
-- Estrutura do Projeto
- - Configuração
- - Pré-requisitos
-- Como Executar
-- Recursos Adicionais
-- Implementações Futuras
-- Contato
+- [Descrição](#descrição)
+- [Tecnologias e Ferramentas](#tecnologias-e-ferramentas)
+- [Estrutura do Projeto](#estrutura-do-projeto)
+  - [Configuração](#configuração)
+  - [Pré-requisitos](#pré-requisitos)
+- [Como Executar](#como-executar)
+- [Recursos Adicionais](#recursos-adicionais)
+- [Implementações Futuras](#implementações-futuras)
+- [Contato](#contato)
 
 ## Descrição
 
@@ -59,7 +59,7 @@ Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 
 ### 1. Clone o repositório
  
-`bash
+bash
 
 `git clone <URL_DO_REPOSITORIO>`
 
