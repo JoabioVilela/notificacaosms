@@ -1,4 +1,4 @@
-# Microsserviço Notificação SMS - CRM Backend Java API RESTful
+# Microsserviço Notificação SMS - Backend Java API RESTful
 
 Tecnologias e Metodologias:
 
