@@ -27,14 +27,8 @@ Para saber mais sobre o microsserviço CRM, que se comunica com este através de
 - Java 17
 - Microsserviços
 - RabbitMQ
-- Swagger UI
 - Maven
 - Spring Framework
-- Basic Auth
-- DTO (Data Transfer Object)
-- Mapper (para conversão entre objetos)
-- Hibernate (para mapeamento objeto-relacional)
-- MySQL
 
   
 ## Estrutura do Projeto
@@ -50,7 +44,6 @@ Para saber mais sobre o microsserviço CRM, que se comunica com este através de
 
 Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 
-- **Docker** e **Docker Compose**
 - **Java 17+**
 - **Maven**
 
