@@ -22,7 +22,7 @@ Esse microsserviço faz parte de um sistema maior de CRM e é integrado com outr
 Para saber mais sobre o microsserviço CRM, que se comunica com este através de mensageria RabbitMQ AMPQ, consulte o repositório CRM Microsserviço disponível em [https://github.com/JoabioVilela/java-restful-api-crm](https://github.com/JoabioVilela/java-restful-api-crm).
 
 
-## Tecnologias e Metodologias
+## Tecnologias e Ferramentas
 
 - Java 17
 - Microsserviços
