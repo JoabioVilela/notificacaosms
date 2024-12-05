@@ -15,7 +15,7 @@ public class NotificacaoSmsListener {
         
         String mensagem = String.format(MensagemConstante.TICKET_REGISTRADO, client.getName());
         
-        System.out.println(mensagem + " Mensagem enviada para Telefone: " + client.getTelefone());
+        System.out.println(mensagem + "\nMensagem enviada para Telefone: " + client.getTelefone() + "\n----------------------------------------------------------------------");
         
     }
 
