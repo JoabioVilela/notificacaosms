@@ -62,7 +62,7 @@ isto é:
 
 bash
 
-`git clone https://github.com/JoabioVilela/notificacaosms`
+`git clone git@github.com:JoabioVilela/notificacaosms.git`
 
 `cd notificacaosms`
 
