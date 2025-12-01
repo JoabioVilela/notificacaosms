@@ -112,7 +112,7 @@ Se precisar de suporte ou tiver dúvidas, entre em contato ou abra uma Issue nes
 
 Atenciosamente,
 
-Joábio Vilela
+Joabio Vilela
 
 Email: joabio.vilela@gmail.com
 
