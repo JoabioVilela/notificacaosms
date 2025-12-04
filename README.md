@@ -17,7 +17,7 @@
 
 ## Descrição
 
-Este repositório contém um microsserviço desenvolvido em Java 17 para envio de notificações SMS. Ele consome mensagens de uma fila RabbitMQ, processa essas mensagens e envia notificações SMS para os clientes mencionados em cada mensagem.
+Este repositório contém um microsserviço desenvolvido em Java 21 para envio de notificações SMS. Ele consome mensagens de uma fila RabbitMQ, processa essas mensagens e envia notificações SMS para os clientes mencionados em cada mensagem.
 
 Esse microsserviço faz parte de um sistema maior de CRM e é integrado com outro microsserviço, que é responsável pelo gerenciamento de clientes e tickets.
 
@@ -26,7 +26,7 @@ Para saber mais sobre o microsserviço CRM, que se comunica com este através de
 
 ## Tecnologias e Ferramentas
 
-- Java 17
+- Java 21
 - Microsserviços
 - RabbitMQ
 - Maven
@@ -46,7 +46,7 @@ Para saber mais sobre o microsserviço CRM, que se comunica com este através de
 
 Certifique-se de ter as seguintes ferramentas instaladas na sua máquina:
 
-- **Java 17+**
+- **Java 21+**
 - **Maven**
 
 
