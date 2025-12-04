@@ -1,4 +1,6 @@
 # Microsserviço Notificação SMS - Backend Java API RESTful
+## Demonstração de funcionamento
+<img width="1680" height="1079" alt="Captura de tela funcionamento" src="https://github.com/user-attachments/assets/d4910203-ebb7-49a9-8fb2-1c652251dc67" />
 
 
 ## Índice
