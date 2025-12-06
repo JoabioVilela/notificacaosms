@@ -68,7 +68,7 @@ bash
 
 `cd notificacaosms`
 
-### 2. Inicie os serviços necessários
+### 2. Certifique-se de que os serviços necessários foram iniciados
 
 - ### Banco de dados MySQL:
 
