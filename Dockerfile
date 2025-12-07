@@ -1,5 +1,4 @@
-# Dockerfile genérico para microsserviços
-FROM openjdk:17-jdk-slim
+FROM eclipse-temurin:21-jdk-jammy
 
 WORKDIR /app
 COPY target/*.jar app.jar
