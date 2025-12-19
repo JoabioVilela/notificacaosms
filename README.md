@@ -68,7 +68,7 @@ bash
 
 `cd notificacaosms`
 
-### 2. Certifique-se de que o Microsserviço do principal foi iniciado
+### 2. Certifique-se de que o principal Microsserviço foi iniciado
 
 [https://github.com/JoabioVilela/java-restful-api-crm](https://github.com/JoabioVilela/java-restful-api-crm)
 
