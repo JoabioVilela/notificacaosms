@@ -68,19 +68,11 @@ bash
 
 `cd notificacaosms`
 
-### 2. Certifique-se de que os serviços necessários foram iniciados
+### 2. Certifique-se de que o Microsserviço do principal foi iniciado
 
-- ### Banco de dados MySQL:
+- ### Disponível em:
 
-bash
-
-`docker compose up -d`
-
-- ### RabbitMQ:
-
-bash
-
-`docker run -d -p 5672:5672 -p 15672:15672 --name my-rabbit rabbitmq:3-management`
+[https://github.com/JoabioVilela/java-restful-api-crm](https://github.com/JoabioVilela/java-restful-api-crm)
 
 ### 3. Compile e execute
 
