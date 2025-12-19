@@ -70,8 +70,6 @@ bash
 
 ### 2. Certifique-se de que o Microsserviço do principal foi iniciado
 
-- ### Disponível em:
-
 [https://github.com/JoabioVilela/java-restful-api-crm](https://github.com/JoabioVilela/java-restful-api-crm)
 
 ### 3. Compile e execute
